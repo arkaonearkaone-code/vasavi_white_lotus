@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2026 - Residem by Designesia
+  * © Copyright 2026 - vasavi white lotus
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
