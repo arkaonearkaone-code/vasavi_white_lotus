@@ -1533,7 +1533,7 @@
      });
 
     $(window).on('load', function() {
-        jQuery('#de-loader').fadeOut(500);
+        jQuery('#de-loader').fadeOut(100);
         filter_gallery();
         load_owl();  
         window.dispatchEvent(new Event('resize'));        
